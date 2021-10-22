@@ -1,16 +1,10 @@
 # Biometric-Authentication-Android
  
-<h1 align=center>
-<img src="Logo/icon.png" width=25%>
-</h1>
-
 A sample implementation of AndroidX biometrics API using Kotlin. Authenticate using biometrics or PIN/Password if biometrics isn't available on device.
 
 &nbsp;
 ### Usage:
-1. Open project and sync gradle.
-2. Modify the code to suit your needs.
-3. Watch out for more features.
+Open project and sync gradle.
 
 &nbsp;
 ### Stats Displayed :
@@ -21,11 +15,11 @@ A sample implementation of AndroidX biometrics API using Kotlin. Authenticate us
 
 &nbsp;
 ### Preview : 
-![Preview]()
+![Preview](https://github.com/mohitmadaan27/Biometric-Android/blob/master/Preview/PreviewGif.gif)
 
 
 &nbsp;
 ### Screenshots : 
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](https://github.com/mohitmadaan27/Biometric-Android/blob/master/Screenshots/1.png)
+![Screenshot 2](https://github.com/mohitmadaan27/Biometric-Android/blob/master/Screenshots/2.png)
 
